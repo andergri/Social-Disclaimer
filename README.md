@@ -1,6 +1,8 @@
 ## Social-Disclaimer
 
-Last updated on June 8, 2023
+Last updated on June 14, 2023
+
+_I assume no duty and provide no guarantee of keeping these disclosures complete or up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure._
 
 The views and opinions expressed by the author are those of the author and do not necessarily reflect the official views or positions of Phi Labs or any other entity.
 
